@@ -5,17 +5,17 @@
 > 🌐 **Interactive Online Package Explorer**: [https://bongo.nobotech.org/packages](https://bongo.nobotech.org/packages)  
 > 📖 **Official Framework Documentation**: [https://bongo.nobotech.org](https://bongo.nobotech.org)  
 > ⚡ **Framework Benchmarks**: [https://bongo.nobotech.org/benchmarks](https://bongo.nobotech.org/benchmarks)  
-> 🐙 **Core Framework Repository**: [https://github.com/Solayman/bongo-php](https://github.com/Solayman/bongo-php)  
+> 🐙 **Core Framework Repository**: [https://github.com/nobotech-labs/bongo-php](https://github.com/nobotech-labs/bongo-php)  
 > 📢 **Facebook Community**: [https://www.facebook.com/profile.php?id=61595418016860](https://www.facebook.com/profile.php?id=61595418016860)
 
 [![Packages Count](https://img.shields.io/badge/packages-50%20official-brightgreen.svg?style=flat-square)](https://bongo.nobotech.org/packages)
 [![PHP Version](https://img.shields.io/badge/PHP-8.0%2B-777bb4?style=flat-square&logo=php&logoColor=white)](https://php.net)
 [![Dependencies](https://img.shields.io/badge/dependencies-0%20required-orange.svg?style=flat-square)](#package-development-standards)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
-[![Framework](https://img.shields.io/badge/framework-Bongo%20PHP-blueviolet?style=flat-square)](https://github.com/Solayman/bongo-php)
+[![Framework](https://img.shields.io/badge/framework-Bongo%20PHP-blueviolet?style=flat-square)](https://github.com/nobotech-labs/bongo-php)
 [![Facebook Community](https://img.shields.io/badge/Facebook-Nobotech%20Labs-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61595418016860)
 
-Official, production-grade package suite for the [Bongo PHP Framework](https://github.com/Solayman/bongo-php).
+Official, production-grade package suite for the [Bongo PHP Framework](https://github.com/nobotech-labs/bongo-php).
 
 Every package is modular, self-contained, and follows Bongo's core principle of **zero required third-party dependencies** (no mandatory Composer packages, no Node.js runtime, no asset build step). Built with pure PHP 8.0+, fully PSR-12 compliant, and engineered for maximum speed, security, and developer ergonomics across 50 official packages.
 
@@ -669,7 +669,7 @@ Stay connected with the Nobo Tech developer community and follow package updates
 * **Official Facebook Page:** [Nobotech Labs on Facebook](https://www.facebook.com/profile.php?id=61595418016860) — Updates, video guides, and release announcements.
 * **Official Website:** [nobotech.org](https://nobotech.org) — Nobo Tech engineering portal.
 * **Documentation & Explorer:** [bongo.nobotech.org/packages](https://bongo.nobotech.org/packages) — Interactive visual package explorer.
-* **Core Framework:** [Solayman/bongo-php](https://github.com/Solayman/bongo-php) — Bongo PHP MVC core repository.
+* **Core Framework:** [nobotech-labs/bongo-php](https://github.com/nobotech-labs/bongo-php) — Bongo PHP MVC core repository.
 * **Lead Architect:** Engineered with precision by **Solayman Ali** ([ratonmsa@gmail.com](mailto:ratonmsa@gmail.com)).
 * **Support Email:** [support@nobotech.org](mailto:support@nobotech.org) · **Admin Email:** [admin@nobotech.org](mailto:admin@nobotech.org)
 
